@@ -1,11 +1,9 @@
-![Lion's github stats](https://github-readme-stats.vercel.app/api?username=i6h&show_icons=true&theme=dark)
 ```js
 const Lion = {
    name : "Abdullah",
-   Age : "20",
    location : "SA/Jeddah",
    MySkills : {
-      Librarys : ["discord.JS", "tmi.js","sveltekit","tailwindcss"],
+      Librarys : ["discord.JS", "tmi.js","sveltekit","tailwindcss","QBCore","Qbox"],
   };
   Languages : ["HTML" , "CSS" , "JavaScript", "TypeScript","Lua"]
 };
@@ -13,9 +11,7 @@ const Lion = {
 console.log(Lion)
 ```
 
-### Discord Profile ✨
-
-![Discord](https://discord.c99.nl/widget/theme-1/320015606071951360.png)
+![Lion's github stats](https://github-readme-stats.vercel.app/api?username=i6h&show_icons=true&theme=dark)
 
 <br>
 <p align="center">
