@@ -11,7 +11,7 @@ const Lion = {
 console.log(Lion);
 ```
 
-![Lion's GitHub Stats](https://github-readme-stats.vercel.app/api?username=i6h&show_icons=true&theme=dark)
+![its4lion's Stats](https://github-readme-stats.vercel.app/api?username=its4lion&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 <br>
 <p align="center">
